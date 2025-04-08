@@ -1,0 +1,9 @@
+Dataset,Traditional KNN,Proposed Model,Generalized Weighted KNN,OF KNN,Overlap KNN,Eskin KNN
+hv84,5,1,4,2,6,2
+servo,6,4,5,2,3,1
+pima,3,1,2,4,6,5
+liver,3,4,5,1,6,2
+ionosphere,3,1,2,5,5,4
+steel,3,1,2,5,6,4
+insurance,6,5,4,3,2,1
+Mean,4.142857142857143,2.4285714285714284,3.4285714285714284,3.142857142857143,4.857142857142857,2.7142857142857144
